@@ -1865,7 +1865,7 @@ section,
     display: block;
     position: fixed;
     left: 22px;
-    bottom: 95px;
+    bottom: 8px;
     width: 56px;
     height: 53px;
     background-color: #54b460;
@@ -1884,8 +1884,8 @@ section,
   position: fixed;
   width: 55px;
   height: 51px;
-  bottom: 30px;
-  left: 20px;
+  bottom: 10px;
+  right: 20px;
   background-color: #237cb8;
   color: #FFF;
   border-radius: 50px;
